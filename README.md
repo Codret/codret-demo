@@ -1,4 +1,4 @@
 # codret-demo
 This is my first Git Repository
 </br>
-Author-codret
+Author-Akash (codret)
